@@ -30,7 +30,7 @@ Publications
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
 
-Teaching Assistance
+Teaching Assistantship
 ======
 1. Comprehensive Practice and Application of Data Science, Nanjing University
 1. Fundamentals of Computer Systems, Nanjing University
