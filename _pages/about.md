@@ -21,10 +21,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-5. **Wei Yuan**, Tieke He, Xinyu Dai: Improving Neural Question Generation using Deep Linguistic Representation. WWW 2021
-4. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020
-3. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
-2. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
+1. **Wei Yuan**, Tieke He, Xinyu Dai: Improving Neural Question Generation using Deep Linguistic Representation. WWW 2021
+1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020
+1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
+1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
 1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph. ISSTA 2020
 
 Site-wide configuration
