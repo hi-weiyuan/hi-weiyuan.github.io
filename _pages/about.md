@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year master student at Software Institute, Nanjing University, studying natural language processing, supervised by Dr. Tieke He. Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from Southwest Jiaotong University. Outside of NLP I like power lifting and watching basketball games. In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home).
+I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.ml). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games. In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home).
 
 Education
 ======
+* Ph.D., Data Science, University of Queensland, Australia, 2022.01 ~ 2025.12.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
