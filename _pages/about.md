@@ -48,5 +48,5 @@ Skills
 
 Awards & Honor
 ======
-1. School Outstanding Student, 2020.12
-1. Second-class Talent Scholarship, 2020.11
+1. School Outstanding Student, Nanjing University, 2020.12
+1. Second-class Talent Scholarship, Nanjing University, 2020.11
