@@ -50,3 +50,9 @@ Awards & Honor
 ======
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
+
+Motto
+======
+The way of learning is no other than searching for one’s lost heart.(Mencius)
+学问之道无他,求其放心而已矣。《孟子.告子章句上》
+
