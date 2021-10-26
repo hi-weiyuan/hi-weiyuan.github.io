@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.ml). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games. 
+I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games. 
 In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home).
 
 Education
@@ -18,6 +18,7 @@ Education
 
 News
 ======
+* (20/10/2021) I got a research assistant position at Nanjing University for one year.
 * (24/02/2021) I got a Ph.D. Program offer from University of Queensland (UQ).
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A).
 
