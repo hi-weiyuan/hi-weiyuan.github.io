@@ -18,6 +18,7 @@ Education
 
 News
 ======
+* (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A).
 * (20/10/2021) I got a research assistant position at Nanjing University for one year.
 * (24/02/2021) I got a Ph.D. Program offer from University of Queensland (UQ).
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A).
@@ -28,6 +29,7 @@ Natural Language Generation, Recommendar System, Knowledge Graph.
 
 Publications
 ======
+1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: Unified Question Generation with Continual Lifelong Learning. WWW 2022 (CCF A).
 1. **Wei Yuan**, Tieke He, Xinyu Dai: Improving Neural Question Generation using Deep Linguistic Representation. WWW 2021 (CCF A)
 1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph. ISSTA 2020 (CCF A)
 1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020
