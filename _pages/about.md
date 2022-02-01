@@ -40,6 +40,7 @@ Publications
 
 Teaching Assistantship
 ======
+1. Social Media Analytics, The University of Queensland
 1. Comprehensive Practice and Application of Data Science, Nanjing University
 1. Fundamentals of Computer Systems, Nanjing University
 1. Big Data Analysis, Nanjing University
@@ -54,6 +55,7 @@ Skills
 
 Awards & Honor
 ======
+1. CSC Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 
