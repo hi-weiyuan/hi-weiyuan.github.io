@@ -20,21 +20,22 @@ I am a first-year Ph.D. student at School of Information Technology and Electric
 
 News
 ======
-* (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A).
+* (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
-* (20/10/2021) I got a research assistant position at Nanjing University for one year.
+<!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. -->
 * (24/02/2021) I got a Ph.D. Program offer from University of Queensland (UQ).
-* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A).
+* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A<sup>\*</sup>).
 
 Research Interests
 ======
-Natural Language Generation, Recommendar System, Knowledge Graph.
+Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering.
 
 Publications
 ======
-1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: Unified Question Generation with Continual Lifelong Learning. WWW 2022 (CCF A).
-1. **Wei Yuan**, Tieke He, Xinyu Dai: Improving Neural Question Generation using Deep Linguistic Representation. WWW 2021 (CCF A)
-1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph. ISSTA 2020 (CCF A)
+1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. CIRCLE: Continual Repair across Programming Languages. ISSTA 2022 (CCF A, CORE A)
+1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
+1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A<sup>\*</sup>)
+1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: [Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph](https://dl.acm.org/doi/10.1145/3395363.3404363). ISSTA 2020 (CCF A, CORE A)
 1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
@@ -56,7 +57,7 @@ Skills
 
 Awards & Honor
 ======
-1. CSC Ph.D. Scholarship (2022.01 - 2025.12)
+1. CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 
