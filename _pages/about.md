@@ -58,7 +58,7 @@ Skills
 
 Awards & Honor
 ======
-1. CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
+1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 
