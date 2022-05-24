@@ -33,7 +33,7 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 Publications
 ======
-1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. CIRCLE: Continual Repair across Programming Languages. ISSTA 2022 (CCF A, CORE A)
+1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A)
 1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
 1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A<sup>\*</sup>)
 1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: [Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph](https://dl.acm.org/doi/10.1145/3395363.3404363). ISSTA 2020 (CCF A, CORE A)
