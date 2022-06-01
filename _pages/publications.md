@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "中文介绍"
-permalink: /publications/
+permalink: /chinese/
 author_profile: true
 ---
 
