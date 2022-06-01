@@ -4,7 +4,7 @@ title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /publication/
   - /publication.html
 ---
 I am a first-year Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
