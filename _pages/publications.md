@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Bio"
 excerpt: "About me"
@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /publication/
   - /publication.html
----
+--- -->
 I am a first-year Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
 
 <!-- I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games.  -->
