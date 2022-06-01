@@ -7,31 +7,32 @@ redirect_from:
   - /publication/
   - /publication.html
 --- -->
-I am a first-year Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
+我现在是昆士兰大学 (UQ) 信息科学与电子工程学院的博士一年级学生（2022年1月入学）。我的指导老师是[Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). 我的研究兴趣包括推荐系统，知识图谱，自然语言处理，以及人工智能在软件工程中的应用。在进入UQ学习之前，我在[南京大学](https://www.nju.edu.cn)完成了我的硕士研究生学位。除了科研，我喜欢举重和游泳以及中国古诗词。
+<!-- I am a first-year Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming.  -->
 
 <!-- I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games.  -->
 <!-- In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home). -->
 
-Education and Research Experience
+教育和科研经历
 ======
-* Ph.D., Data Science, University of Queensland, Australia, 2022.01 ~ 2025.12.
-* Research Assistant at Nanjing University, 2021.07 ~ 2021.12
-* MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
-* BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
+* 博士, 澳大利亚昆士兰大学, 2022.01 ~ 2025.12.
+* 科研助理, 南京大学, 2021.07 ~ 2021.12
+* 硕士, 软件工程, 南京大学, 2019.09 ~ 2021.06.
+* 本科, 软件工程, 西南交通大学, 2015.09 ~ 2019.06.
 
-News
+新闻
 ======
-* (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
-* (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
+* (30/04/2022) 我的一篇论文 "CIRCLE: Continual Repair across Programming Languages" 被录用于软件工程领域国际顶会 International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
+* (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于计算机综合领域国际顶会 The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
 <!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. -->
-* (24/02/2021) I got a Ph.D. Program offer from University of Queensland (UQ).
-* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A<sup>\*</sup>).
+* (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助.
+* (16/01/2021) 我的一篇论文 "Improving Neural Question Generation using Deep Linguistic Representation" 被录用于计算机综合领域国际顶会 WWW 2021 (CCF A, CORE A<sup>\*</sup>).
 
-Research Interests
+研究兴趣
 ======
-Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering.
+自然语言生成, 推荐系统, 知识图谱, 人工智能于软件工程.
 
-Publications
+已发表论文
 ======
 1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A)
 1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
@@ -41,29 +42,39 @@ Publications
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
 
-Teaching Assistantship
+助教经历
 ======
-1. Social Media Analytics, The University of Queensland
-1. Comprehensive Practice and Application of Data Science, Nanjing University
-1. Fundamentals of Computer Systems, Nanjing University
-1. Big Data Analysis, Nanjing University
+1. 社交网络分析, 昆士兰大学
+1. 大数据理论与实践, 南京大学
+1. 计算机基础, 南京大学
+1. 大数据分析, 南京大学
 
-Skills
+技能
 ======
 * Python, Shell, C++, Django
 * PyTorch, Tensorflow
 * Neo4j, Mysql, MongoDB
 * Latex, Markdown
 * Linux, Vim, Sublime Text
+* 会计从业资格
 
-Awards & Honor
+奖项与荣誉
 ======
-1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
-1. School Outstanding Student, Nanjing University, 2020.12
-1. Second-class Talent Scholarship, Nanjing University, 2020.11
+1. UQ-CSC 全额博士奖学金 (2022.01 - 2025.12)
+1. 优秀毕业生, 南京大学, 2020.12
+1. 英才奖学金, 南京大学, 2020.11
 
-Motto
+座右铭
 ======
-The way of learning is no other than searching for one’s lost heart.(Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
+
+我的诗词
+======
+1. 《一剪梅·离乡偶书》作于辛丑年十一月廿六日，离家赴澳求学。  
+一曲离歌酒断肠，曦起征铎，装捡行囊。  
+临别慈母心惶惶，欲劝还休，鬓发微霜。  
+夜渐寒深望梓桑，雨湿机窗，泪霑衣裳。  
+修业负笈路漫长，爱礼存羊，雪茧书香。  
+
+
 
