@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
+I am a Ph.D. student (enrolled in Jan. 2022) at School of Information Technology and Electrical Engineering, The University of Queensland, supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems, Knowledge Graph, Natural Language Processing, and AI for Software Engineering. Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
 
 <!-- I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games.  -->
 <!-- In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home). -->
@@ -21,6 +21,7 @@ Education and Research Experience
 
 News
 ======
+* (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A<sup>\*</sup>).
 * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
 <!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. -->
@@ -33,13 +34,14 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 Publications
 ======
-1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A)
+1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: Federated Unlearning for On-Device Recommendation. WSDM 2023 (CCF A, CORE A<sup>\*</sup>).
+1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin: [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A).
 1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
-1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A<sup>\*</sup>)
-1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: [Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph](https://dl.acm.org/doi/10.1145/3395363.3404363). ISSTA 2020 (CCF A, CORE A)
-1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020
-1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020
-1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020
+1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A<sup>\*</sup>).
+1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: [Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph](https://dl.acm.org/doi/10.1145/3395363.3404363). ISSTA 2020 (CCF A, CORE A).
+1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020.
+1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
+1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 
 Teaching Assistantship
 ======
