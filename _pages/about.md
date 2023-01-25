@@ -21,6 +21,7 @@ Education and Research Experience
 
 News
 ======
+* (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A<sup>\*</sup>).
 * (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A<sup>\*</sup>).
 * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
@@ -34,6 +35,7 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 Publications
 ======
+1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: Interaction-level Membership Inference Attack Against Federated Recommender Systems. WWW 2023 (CCF A, CORE A<sup>\*</sup>).
 1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](http://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A<sup>\*</sup>).
 1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin: [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A).
 1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
