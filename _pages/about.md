@@ -22,12 +22,12 @@ Education and Research Experience
 News
 ======
 * (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
-* (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A<sup>\*</sup>).
+* (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A*).
 * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
-* (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A<sup>\*</sup>).
+* (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A*).
 <!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. -->
 * (24/02/2021) I got a Ph.D. Program offer from University of Queensland (UQ).
-* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A<sup>\*</sup>).
+* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 
 Research Interests
 ======
@@ -35,11 +35,11 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 Publications
 ======
-1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: Interaction-level Membership Inference Attack Against Federated Recommender Systems. WWW 2023 (CCF A, CORE A<sup>\*</sup>).
-1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](http://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A<sup>\*</sup>).
+1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: Interaction-level Membership Inference Attack Against Federated Recommender Systems. WWW 2023 (CCF A, CORE A*).
+1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](http://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A*).
 1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin: [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A).
-1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A<sup>\*</sup>).
-1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A<sup>\*</sup>).
+1. **Wei Yuan**, Hongzhi Yin, Tieke He, Tong Chen, Qiufeng Wang, Lizhen Cui: [Unified Question Generation with Continual Lifelong Learning](https://dl.acm.org/doi/10.1145/3485447.3511930). WWW 2022 (CCF A, CORE A*).
+1. **Wei Yuan**, Tieke He, Xinyu Dai: [Improving Neural Question Generation using Deep Linguistic Representation](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449975). WWW 2021 (CCF A, CORE A*).
 1. Chao Guo, Tieke He, **Wei Yuan**, Yue Guo, Rui Hao: [Crowdsourced Requirements Generation for Automatic Testing via Knowledge Graph](https://dl.acm.org/doi/10.1145/3395363.3404363). ISSTA 2020 (CCF A, CORE A).
 1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020.
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
