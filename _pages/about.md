@@ -68,6 +68,6 @@ Awards & Honor
 
 Motto
 ======
-The way of study and inquiry is none other than the search for the lost mind.(Mencius)  
+The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
 
