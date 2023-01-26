@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wei Yuan"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
