@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cn-China"
-title                    : "Wei Yuan / Personal Pages"
+title                    : "Wei Yuan"
 title_separator          : "-"
 name                     : &name "Wei Yuan"
 description              : &description "personal description"
