@@ -15,7 +15,7 @@ I am a Ph.D. student (enrolled in Jan. 2022) at School of Information Technology
 Education and Research Experience
 ======
 * Ph.D., Data Science, University of Queensland, Australia, 2022.01 ~ 2025.12.
-* Research Assistant at Nanjing University, 2021.07 ~ 2021.12
+<!-- * Research Assistant at Nanjing University, 2021.07 ~ 2021.12 -->
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
@@ -62,7 +62,7 @@ Skills
 
 Awards & Honor
 ======
-1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
+<!-- 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12) -->
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 
