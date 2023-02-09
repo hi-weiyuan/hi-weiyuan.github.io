@@ -11,7 +11,7 @@ author_profile: true
 教育和科研经历
 ======
 * 博士, 澳大利亚昆士兰大学, 2022.01 ~ 2025.12.
-* 科研助理, 南京大学, 2021.07 ~ 2021.12
+<!-- * 科研助理, 南京大学, 2021.07 ~ 2021.12 -->
 * 硕士, 软件工程, 南京大学, 2019.09 ~ 2021.06.
 * 本科, 软件工程, 西南交通大学, 2015.09 ~ 2019.06.
 
@@ -22,7 +22,7 @@ author_profile: true
 * (30/04/2022) 我的一篇论文 "CIRCLE: Continual Repair across Programming Languages" 被录用于软件工程领域国际顶会 International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于计算机综合领域国际顶会 The Web Conference (WWW) 2022 (CCF A, CORE A*).
 <!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. -->
-* (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助.
+<!-- * (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助. -->
 * (16/01/2021) 我的一篇论文 "Improving Neural Question Generation using Deep Linguistic Representation" 被录用于计算机综合领域国际顶会 WWW 2021 (CCF A, CORE A*).
 
 研究兴趣
@@ -59,7 +59,7 @@ author_profile: true
 
 奖项与荣誉
 ======
-1. UQ-CSC 全额博士奖学金 (2022.01 - 2025.12)
+<!-- 1. UQ-CSC 全额博士奖学金 (2022.01 - 2025.12) -->
 1. 优秀毕业生, 南京大学, 2020.12
 1. 优秀研究生, 南京大学, 2020.12
 1. 英才奖学金, 南京大学, 2020.11
