@@ -21,10 +21,10 @@ author_profile: true
 * (30/04/2022) 我的一篇论文 "CIRCLE: Continual Repair across Programming Languages" 被录用于 International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于 The Web Conference (WWW) 2022 (CCF A, CORE A*).<!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. --><!-- * (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助. -->
 * (16/01/2021) 我的一篇论文 "Improving Neural Question Generation using Deep Linguistic Representation" 被录用于 WWW 2021 (CCF A, CORE A*).
-
+<!-- 
 研究兴趣
 ======
-自然语言生成, 推荐系统, 知识图谱, 人工智能与软件工程.
+自然语言生成, 推荐系统, 知识图谱, 人工智能与软件工程. -->
 
 已发表论文
 ======
