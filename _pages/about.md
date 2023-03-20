@@ -27,9 +27,9 @@ News
 * (24/02/2021) I got a Ph.D. Program offer from The University of Queensland (UQ).
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 
-<!-- Research Interests
+Research Interests
 ======
-Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering. -->
+Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering.
 
 Publications
 ======
@@ -43,7 +43,7 @@ Publications
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 
-<!-- Teaching Assistantship
+Teaching Assistantship
 ======
 1. Social Media Analytics, The University of Queensland
 1. Comprehensive Practice and Application of Data Science, Nanjing University
@@ -67,5 +67,5 @@ Awards & Honor
 Motto
 ======
 The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
-学问之道无他,求其放心而已矣。《孟子.告子章句上》 -->
+学问之道无他,求其放心而已矣。《孟子.告子章句上》
 
