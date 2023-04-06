@@ -10,24 +10,30 @@ author_profile: true
 
 教育和科研经历
 ======
-* 博士, 澳大利亚昆士兰大学, 2022.01 ~ 2025.12.<!-- * 科研助理, 南京大学, 2021.07 ~ 2021.12 -->
+* 博士, 澳大利亚昆士兰大学, 2022.01 ~ 2025.12.
+* 科研助理, 南京大学, 2021.07 ~ 2021.12
 * 硕士, 软件工程, 南京大学, 2019.09 ~ 2021.06.
 * 本科, 软件工程, 西南交通大学, 2015.09 ~ 2019.06.
 
 新闻
 ======
-* (26/01/2022) 我的一篇论文 "Interaction-level Membership Inference Attack Against Federated Recommender Systems" 被录用于 The Web Conference (WWW) 2023 (CCF A, CORE A*).
+* (06/04/2023) 我的一篇论文 "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" 被录用于 SIGIR 2023 (CCF A, CORE A*).
+* (26/01/2023) 我的一篇论文 "Interaction-level Membership Inference Attack Against Federated Recommender Systems" 被录用于 The Web Conference (WWW) 2023 (CCF A, CORE A*).
+* (14/03/2023) 我通过了PhD Confirmation考核.
 * (19/10/2022) 我的一篇论文 "Federated Unlearning for On-Device Recommendation" 被录用于 Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A).
 * (30/04/2022) 我的一篇论文 "CIRCLE: Continual Repair across Programming Languages" 被录用于 International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
-* (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于 The Web Conference (WWW) 2022 (CCF A, CORE A*).<!-- * (20/10/2021) I got a research assistant position at Nanjing University for one year. --><!-- * (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助. -->
+* (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于 The Web Conference (WWW) 2022 (CCF A, CORE A*).
+* (20/10/2021) I got a research assistant position at Nanjing University for one year.
+* (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助.
 * (16/01/2021) 我的一篇论文 "Improving Neural Question Generation using Deep Linguistic Representation" 被录用于 WWW 2021 (CCF A, CORE A*).
-<!-- 
+
 研究兴趣
 ======
-自然语言生成, 推荐系统, 知识图谱, 人工智能与软件工程. -->
+自然语言生成, 推荐系统, 知识图谱, 人工智能与软件工程.
 
 已发表论文
 ======
+1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen and Hongzhi Yin: Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures. SIGIR 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: [Interaction-level Membership Inference Attack Against Federated Recommender Systems](http://arxiv.org/abs/2301.10964). WWW 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](https://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A*).
 1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin. [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A).
@@ -38,13 +44,13 @@ author_profile: true
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 
-<!-- 助教经历
+助教经历
 ======
 1. 社交网络分析, 昆士兰大学
 1. 大数据理论与实践, 南京大学
 1. 计算机基础, 南京大学
-1. 大数据分析, 南京大学 -->
-<!-- 
+1. 大数据分析, 南京大学
+
 技能
 ======
 * Python, Shell, C++, Django
@@ -72,5 +78,5 @@ author_profile: true
 一曲离歌酒断肠，曦起征铎，装捡行囊。  
 临别慈母心惶惶，欲劝还休，鬓发微霜。  
 夜渐寒深望梓桑，雨湿机窗，泪霑衣裳。  
-修业负笈路漫长，爱礼存羊，雪茧书香。   -->
+修业负笈路漫长，爱礼存羊，雪茧书香。  
 
