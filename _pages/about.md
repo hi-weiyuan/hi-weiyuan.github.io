@@ -37,6 +37,12 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 Publications
 ======
+<!-- arXiv Preprints
+=====
+1.Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857).
+1. -->
+<!-- Published -->
+<!-- ===== -->
 1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen and Hongzhi Yin: [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054). SIGIR 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: [Interaction-level Membership Inference Attack Against Federated Recommender Systems](http://arxiv.org/abs/2301.10964). WWW 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](http://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A*).
