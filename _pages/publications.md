@@ -34,7 +34,7 @@ author_profile: true
 论文
 ======
 
-Arxiv
+arXiv
 =====
 1. **Wei Yuan**, Shilong Yuan, Kai Zheng, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857).
