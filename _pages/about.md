@@ -12,15 +12,13 @@ I am a Ph.D. student (enrolled in Jan. 2022) at School of Information Technology
 <!-- I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games.  -->
 <!-- In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home). -->
 
-Education and Research Experience
-======
+# Education and Research Experience
 * Ph.D., Data Science, University of Queensland, Australia, 2022.01 ~ 2025.12.
 * Research Assistant at Nanjing University, 2021.07 ~ 2021.12
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
-News
-======
+# News
 * (06/04/2023) Our paper "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" was accepted by The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023 (CCF A, CORE A*).
 * (14/03/2023) I passed the first progress (PhD Confirmation) review.
 * (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
@@ -31,12 +29,10 @@ News
 * (24/02/2021) I got a Ph.D. Program offer from The University of Queensland (UQ).
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 
-Research Interests
-======
+# Research Interests
 Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering.
 
-Academic Services
-======
+# Academic Services
 * PC member: CIKM 2023
 * Journal reviewer: TKDE, TOIS, etc.
 
