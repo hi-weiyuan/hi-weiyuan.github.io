@@ -36,17 +36,14 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 * PC member: CIKM 2023
 * Journal reviewer: TKDE, TOIS, etc.
 
-Publications
-======
+# Publications
 
-arXiv Preprints
-=
+### arXiv Preprints
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
-Published
-=
+### Published
 1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong and Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen and Hongzhi Yin: [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054). SIGIR 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: [Interaction-level Membership Inference Attack Against Federated Recommender Systems](http://arxiv.org/abs/2301.10964). WWW 2023 (CCF A, CORE A*).
@@ -59,29 +56,25 @@ Published
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 
-Teaching Assistantship
-======
+# Teaching Assistantship
 1. Social Media Analytics, The University of Queensland
 1. Comprehensive Practice and Application of Data Science, Nanjing University
 1. Fundamentals of Computer Systems, Nanjing University
 1. Big Data Analysis, Nanjing University
 
-Skills
-======
+# Skills
 * Python, Shell, C++, Django
 * PyTorch, Tensorflow
 * Neo4j, Mysql, MongoDB
 * Latex, Markdown
 * Linux, Vim, Sublime Text
 
-Awards & Honor
-======
+# Awards & Honor
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 
-Motto
-======
+# Motto
 The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
 
