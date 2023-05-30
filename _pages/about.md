@@ -44,13 +44,13 @@ Publications
 ======
 
 arXiv Preprints
-=====
+===
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
 Published
-=====
+===
 1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong and Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen and Hongzhi Yin: [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054). SIGIR 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: [Interaction-level Membership Inference Attack Against Federated Recommender Systems](http://arxiv.org/abs/2301.10964). WWW 2023 (CCF A, CORE A*).
