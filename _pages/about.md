@@ -14,7 +14,7 @@ I am a second-year PhD student at the School of Information Technology and Elect
 
 # Education and Research Experience
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.12.
-* Research Assistant at Nanjing University, 2021.07 ~ 2021.12
+* Research Assistant, Nanjing University, 2021.07 ~ 2021.12.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
@@ -33,7 +33,7 @@ I am a second-year PhD student at the School of Information Technology and Elect
 Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering.
 
 # Academic Services
-* PC member: CIKM 2023
+* PC member: CIKM 2023.
 * Journal reviewer: TKDE, TOIS, etc.
 
 # Publications
