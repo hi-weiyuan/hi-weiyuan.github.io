@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at School of Information Technology and Electrical Engineering, The University of Queensland (UQ), supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like power lifting and swimming. 
+I am a PhD student at the School of Information Technology and Electrical Engineering, The University of Queensland (UQ), supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like powerlifting and swimming. 
 
 <!-- I am a final-year master student at Software Institute, [Nanjing University](https://www.nju.edu.cn), studying natural language processing, supervised by [Dr. Tieke He](http://hetieke.cn). Specially, my research focuses on text generation, such as dialogue system and question generation. Before at Nanjing University, I received my Bachelor's degree from [Southwest Jiaotong University](https://www.swjtu.edu.cn). Outside of NLP I like power lifting and watching basketball games.  -->
 <!-- In 2022, I will be a Ph.D. candidate at University of Queensland, Australia, supervised by [A/Prof. Yin](https://sites.google.com/view/hongzhi-yin/home). -->
@@ -26,11 +26,11 @@ I am a Ph.D. student at School of Information Technology and Electrical Engineer
 * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A*).
 * (20/10/2021) I got a research assistant position at Nanjing University for one year.
-* (24/02/2021) I got a Ph.D. Program offer from The University of Queensland (UQ).
+* (24/02/2021) I got a PhD. Program offer from The University of Queensland (UQ).
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 
 # Research Interests
-Natural Language Generation, Recommendar System, Knowledge Graph, AI for Software Engineering.
+Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering.
 
 # Academic Services
 * PC member: CIKM 2023
@@ -64,12 +64,13 @@ Natural Language Generation, Recommendar System, Knowledge Graph, AI for Softwar
 
 # Skills
 * Python, Shell, C++, Django
-* PyTorch, Tensorflow
+* PyTorch, TensorFlow
 * Neo4j, Mysql, MongoDB
 * Latex, Markdown
 * Linux, Vim, Sublime Text
 
 # Awards & Honor
+1. SIGIR Student Travel Grant, 2023
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
