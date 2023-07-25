@@ -23,7 +23,7 @@ author_profile: true
 * (19/10/2022) 我的一篇论文 "Federated Unlearning for On-Device Recommendation" 被录用于 Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A).
 * (30/04/2022) 我的一篇论文 "CIRCLE: Continual Repair across Programming Languages" 被录用于 International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
 * (25/01/2022) 我的一篇论文 "Unified Question Generation with Continual Lifelong Learning" 被录用于 The Web Conference (WWW) 2022 (CCF A, CORE A*).
-* (20/10/2021) I got a research assistant position at Nanjing University for one year.
+* (20/10/2021) 我获得了南京大学一年制研究助理岗位.
 * (24/02/2021) 我获得了昆士兰大学博士offer以及国家留学基金委奖学金 (CSC) 资助.
 * (16/01/2021) 我的一篇论文 "Improving Neural Question Generation using Deep Linguistic Representation" 被录用于 WWW 2021 (CCF A, CORE A*).
 
