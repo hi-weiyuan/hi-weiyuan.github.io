@@ -5,7 +5,7 @@ permalink: /chinese/
 author_profile: true
 ---
 
-我（袁为）现在是昆士兰大学 (UQ) 信息科学与电子工程学院的博士研究生（2022年1月入学）。我的指导老师是[Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home)。 我的研究兴趣集中在推荐系统的可靠性、安全性。<!-- ，知识图谱，自然语言处理，以及人工智能在软件工程中的应用。 -->在进入UQ学习之前，我在[南京大学](https://www.nju.edu.cn)获得了我的硕士研究生学位。除了科研，我喜欢举重和游泳以及中国古诗词。
+我现在是昆士兰大学 (UQ) 信息科学与电子工程学院的博士研究生（2022年1月入学）。我的指导老师是[Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home)。 我的研究兴趣集中在推荐系统的可靠性、安全性。<!-- ，知识图谱，自然语言处理，以及人工智能在软件工程中的应用。 -->在进入UQ学习之前，我在[南京大学](https://www.nju.edu.cn)获得了我的硕士研究生学位。除了科研，我喜欢举重和游泳以及中国古诗词。
 
 
 教育和科研经历
