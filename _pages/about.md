@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year PhD student at the School of Information Technology and Electrical Engineering, The University of Queensland (UQ), supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like powerlifting and swimming. 
+I am a second-year PhD student at the School of Information Technology and Electrical Engineering, The University of Queensland (UQ), supervised by [A/Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems and Decentralized Learning. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like powerlifting and swimming. 
 
 
 # Education and Research Experience
@@ -28,7 +28,7 @@ I am a second-year PhD student at the School of Information Technology and Elect
 * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 
 # Research Interests
-Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering.
+Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering, Decentralized Learning.
 
 # Academic Services
 * PC member: CIKM 2023.
@@ -37,6 +37,8 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 # Publications
 
 ### arXiv Preprints
+1. Wei Yuan, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity
+](https://arxiv.org/abs/2307.12810).
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
