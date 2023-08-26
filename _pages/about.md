@@ -30,7 +30,7 @@ I am a second-year PhD student at the School of Information Technology and Elect
 Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering, Decentralized Learning.
 
 # Academic Services
-* PC member: CIKM 2023.
+* PC member: CIKM 2023, The Web Conference (WWW) 2024.
 * Journal reviewer: TKDE, TOIS, etc.
 
 # Publications
