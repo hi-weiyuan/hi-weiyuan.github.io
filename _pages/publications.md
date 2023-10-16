@@ -17,7 +17,7 @@ author_profile: true
 
 新闻
 ======
-* (06/04/2023) 我的一篇论文 "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" 被录用于 TOIS 2023 (CCF A, CORE A).
+* (16/10/2023) 我的一篇论文 "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" 被录用于 TOIS 2023 (CCF A, CORE A).
 * (06/04/2023) 我的一篇论文 "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" 被录用于 SIGIR 2023 (CCF A, CORE A*).
 * (26/01/2023) 我的一篇论文 "Interaction-level Membership Inference Attack Against Federated Recommender Systems" 被录用于 The Web Conference (WWW) 2023 (CCF A, CORE A*).
 * (14/03/2023) 我通过了PhD Confirmation考核.
