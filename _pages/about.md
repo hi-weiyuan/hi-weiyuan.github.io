@@ -17,6 +17,7 @@ I am a second-year PhD student at the School of Information Technology and Elect
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
+* (16/10/2023) Our paper "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" was accepted by the top journal ACM Transactions on Information Systems (TOIS) 2023 (CCF A, CORE A).
 * (06/04/2023) Our paper "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" was accepted by The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023 (CCF A, CORE A*).
 * (14/03/2023) I passed the first progress (PhD Confirmation) review.
 * (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
@@ -38,13 +39,13 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 ### arXiv Preprints
 1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity
 ](https://arxiv.org/abs/2307.12810).
-1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
 ### Published
+1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183).
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857). TKDE 2023 (CCF A, CORE A*).
-1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong and Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
-1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen and Hongzhi Yin: [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054). SIGIR 2023 (CCF A, CORE A*).
+1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong, Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
+1. **Wei Yuan**, Quoc Viet Hung Nguyen, Tieke He, Liang Chen, Hongzhi Yin: [Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures](https://arxiv.org/abs/2304.03054). SIGIR 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Chaoqun Yang, Quoc Viet Hung Nguyen, Lizhen Cui, Tieke He, Hongzhi Yin: [Interaction-level Membership Inference Attack Against Federated Recommender Systems](http://arxiv.org/abs/2301.10964). WWW 2023 (CCF A, CORE A*).
 1. **Wei Yuan**, Hongzhi Yin, Fangzhao Wu, Shijie Zhang, Tieke He, Hao Wang: [Federated Unlearning for On-Device Recommendation](http://arxiv.org/abs/2210.10958). WSDM 2023 (CCF B, CORE A*).
 1. **Wei Yuan**, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao, Hongzhi Yin: [CIRCLE: Continual Repair across Programming Languages](https://arxiv.org/abs/2205.10956). ISSTA 2022 (CCF A, CORE A).
