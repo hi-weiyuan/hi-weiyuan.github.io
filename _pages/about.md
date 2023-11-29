@@ -38,11 +38,11 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 # Publications
 
 ### arXiv Preprints
-1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968)
+1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
 ### Published
-1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810). ICDE 2024 (CCF A, CORE A*)
+1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810). ICDE 2024 (CCF A, CORE A*).
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183). TOIS 2023 (CCF A, CORE A).
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857). TKDE 2023 (CCF A, CORE A*).
 1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong, Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
