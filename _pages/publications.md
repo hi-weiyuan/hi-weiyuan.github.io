@@ -36,7 +36,7 @@ author_profile: true
 ======
 * PC member: CIKM 2023, The Web Conference (WWW) 2024.
 * Journal reviewer: TKDE, TOIS, etc.
-* External Reviewer（按字母排序）: DAFSSA, ICDE, ICDM, ICLR, IJCAI, KBS, KDD, NIPS, SIGIR, Science China Information Sciences, TIST, TKDD, TNNLS, TPAMI, VLDB, WSDM, etc.
+* External Reviewer（按字母排序）: DASFAA, ICDE, ICDM, ICLR, IJCAI, KBS, KDD, NIPS, SIGIR, Science China Information Sciences, TIST, TKDD, TNNLS, TPAMI, VLDB, WSDM, etc.
 
 论文
 ======
