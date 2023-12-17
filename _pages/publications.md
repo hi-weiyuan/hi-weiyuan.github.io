@@ -17,6 +17,7 @@ author_profile: true
 
 新闻
 ======
+* (29/11/2023) 我的一篇论文 "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" 被数据库顶会ICDE 2024 (CCF A, CORE A*)录用.
 * (16/10/2023) 我的一篇论文 "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" 被录用于 TOIS 2023 (CCF A, CORE A).
 * (06/04/2023) 我的一篇论文 "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" 被录用于 SIGIR 2023 (CCF A, CORE A*).
 * (26/01/2023) 我的一篇论文 "Interaction-level Membership Inference Attack Against Federated Recommender Systems" 被录用于 The Web Conference (WWW) 2023 (CCF A, CORE A*).
@@ -31,16 +32,23 @@ author_profile: true
 ======
 自然语言生成, 推荐系统, 知识图谱, 人工智能与软件工程, 分布式学习.
 
+学术服务
+======
+* PC member: CIKM 2023, The Web Conference (WWW) 2024.
+* Journal reviewer: TKDE, TOIS, etc.
+* External Reviewer（按字母排序）: DAFSSA, ICDE, ICDM, ICLR, IJCAI, KBS, KDD, NIPS, SIGIR, Science China Information Sciences, TIST, TKDD, TNNLS, TPAMI, VLDB, WSDM, etc.
+
 论文
 ======
 
 arXiv
 =====
-1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810).
+1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
 已出版/接受
 =====
+1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810). ICDE 2024 (CCF A, CORE A*)
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183). TOIS 2023 (CCF A, CORE A)
 1. Shijie Zhang, **Wei Yuan**, Hongzhi Yin: [Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks](https://arxiv.org/abs/2205.11857). TKDE 2023 (CCF A, CORE A*).
 1. Lingzhi Wang, Tong Chen, **Wei Yuan**, Xingshan Zeng, Kam-Fai Wong, Hongzhi Yin: [KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment](https://arxiv.org/abs/2305.06535). ACL 2023 (CCF A, CORE A*).
