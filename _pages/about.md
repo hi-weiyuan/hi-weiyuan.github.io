@@ -72,6 +72,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 * Linux, Vim, Sublime Text
 
 # Awards & Honor
+<!-- 1. Top 40 in Baidu Scholarship, 2023-->
 1. SIGIR Student Travel Grant, 2023
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
