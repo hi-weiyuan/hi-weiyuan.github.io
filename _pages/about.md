@@ -77,6 +77,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
+<!-- 1. Ranked Top-1 (both preliminary scores and overall scores) in the national postgraduate entrance exam of the Software Engineering of Nanjing University, 2019-->
 
 # Motto
 The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
