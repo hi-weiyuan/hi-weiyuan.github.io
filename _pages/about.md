@@ -38,6 +38,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 # Publications
 
 <!--### arXiv Preprints
+1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Lijian Chen, **Wei Yuan**, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826).
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
