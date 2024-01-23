@@ -17,27 +17,37 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
-* (29/11/2023) Our paper "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" was accepted by The 40th IEEE International Conference on Data Engineering (ICDE) 2024 (CCF A, CORE A*).
-* (16/10/2023) Our paper "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" was accepted by the top journal ACM Transactions on Information Systems (TOIS) 2023 (CCF A, CORE A).
-* (06/04/2023) Our paper "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" was accepted by The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023 (CCF A, CORE A*).
-* (14/03/2023) I passed the first progress (PhD Confirmation) review.
-* (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
-* (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A*).
-* (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by the International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
-* (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A*).<!--* (20/10/2021) I got a research assistant position at Nanjing University for one year.-->
-* (24/02/2021) I got a PhD Program offer from The University of Queensland (UQ).
-* (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
+* (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
+* (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
+* (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).
+<!--<details>  <summary>Before 2024</summary>
+  
+  * (29/11/2023) Our paper "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" was accepted by The 40th IEEE International Conference on Data Engineering (ICDE) 2024 (CCF A, CORE A*).
+  * (16/10/2023) Our paper "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" was accepted by the top journal ACM Transactions on Information Systems (TOIS) 2023 (CCF A, CORE A).
+  * (06/04/2023) Our paper "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" was accepted by The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023 (CCF A, CORE A*).
+  * (14/03/2023) I passed the first progress (PhD Confirmation) review.
+  * (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
+  * (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A*).
+  * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by the International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
+  * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A*).
+  * (20/10/2021) I got a research assistant position at Nanjing University for one year.
+  * (24/02/2021) I got a PhD Program offer from The University of Queensland (UQ).
+  * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
+  
+</details> -->
+
 
 # Research Interests
 Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering, Decentralized Learning.
 
 # Academic Services
-* PC member: CIKM 2023, The Web Conference (WWW) 2024.
+* PC member: CIKM 2023, The Web Conference (WWW) 2024, KDD 2024.
 * Journal reviewer: TKDE, TOIS, etc.
 
 # Publications
 
 <!--### arXiv Preprints
+1. Hongzhi Yin, Liang Qu, Tong Chen, **Wei Yuan**, Ruiqi Zheng, Jing Long, Xin Xia, Yuhui Shi, Chengqi Zhang: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Lijian Chen, **Wei Yuan**, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826).
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968).
