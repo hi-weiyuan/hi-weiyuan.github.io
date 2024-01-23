@@ -20,6 +20,7 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
 * (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
 * (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).
+
 <!--<details>  <summary>Before 2024</summary>
   * (29/11/2023) Our paper "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" was accepted by The 40th IEEE International Conference on Data Engineering (ICDE) 2024 (CCF A, CORE A*).
   * (16/10/2023) Our paper "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" was accepted by the top journal ACM Transactions on Information Systems (TOIS) 2023 (CCF A, CORE A).
