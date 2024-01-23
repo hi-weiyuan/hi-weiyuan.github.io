@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year PhD student at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research focuses on Recommender Systems and Decentralized Learning. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like powerlifting and swimming. 
+I am a final-year PhD student at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), supervised by [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn). Outside of research, I like powerlifting and swimming. 
 
 
 # Education and Research Experience
