@@ -51,7 +51,8 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 1. Lijian Chen, **Wei Yuan**, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
-test
+
+1. Liang Qu, **Wei Yuan**, Ruiqi Zheng, Lizhen Cui, Yuhui Shi, Hongzhi Yin: [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/abs/2401.17630). WWW 2024 (CCF A, CORE A*).
 1. Liang Qu, **Wei Yuan**, Ruiqi Zheng, Lizhen Cui, Yuhui Shi, Hongzhi Yin: [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/abs/2401.17630). WWW 2024 (CCF A, CORE A*).
 1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810). ICDE 2024 (CCF A, CORE A*).
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183). TOIS 2023 (CCF A, CORE A).
