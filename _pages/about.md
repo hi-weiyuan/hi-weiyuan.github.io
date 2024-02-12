@@ -17,6 +17,7 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
+* (11/02/2024) One co-authored paper titled "Hide Your Model: A Parameter Transmission-free Federated Recommender System" has been accepted by the top conference ICDE 2024 (CCF A, CORE A*).
 * (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
 * (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
 * (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).
