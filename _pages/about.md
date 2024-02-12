@@ -17,7 +17,6 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
-* (11/02/2024) One co-authored paper titled "Hide Your Model: A Parameter Transmission-free Federated Recommender System" has been accepted by the top conference ICDE 2024 (CCF A, CORE A*).
 * (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
 * (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
 * (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).
@@ -53,6 +52,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 
 ### Published-->
+1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968). ICDE 2024 (CCF A, CORE A*)
 1. Liang Qu, **Wei Yuan**, Ruiqi Zheng, Lizhen Cui, Yuhui Shi, Hongzhi Yin: [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/abs/2401.17630). WWW 2024 (CCF A, CORE A*).
 1. **Wei Yuan**, Liang Qu, Lizhen Cui, Yongxin Tong, Xiaofang Zhou, Hongzhi Yin: [HeteFedRec: Federated Recommender Systems with Model Heterogeneity](https://arxiv.org/abs/2307.12810). ICDE 2024 (CCF A, CORE A*).
 1. **Wei Yuan**, Shilong Yuan, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures](https://arxiv.org/abs/2305.08183). TOIS 2023 (CCF A, CORE A).
