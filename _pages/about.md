@@ -43,7 +43,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 
 # Academic Services
 * PC member: CIKM 2023/2024, The Web Conference (WWW) 2024, KDD 2024.
-* Journal reviewer: TKDE, TOIS, etc.
+* Journal reviewer: TKDE, TOIS, TKDD, Neural Networks, Science China Information Science, etc.
 
 # Publications
 
