@@ -16,7 +16,9 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
-<!--(16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).-->
+<!--
+(15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
+(16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).-->
 * (06/06/2024) We have released a survey for poisoning attacks and defenses in recommendations: [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://arxiv.org/abs/2406.01022).
 * (22/05/2024) One co-authored paper titled "Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion" has been accepted by the journal ACM Transactions on Information Systems (TOIS) 2024 (CCF A, CORE A).
 * (11/03/2024) I have been invited to serve as PC for the top conference CIKM 2024 (CCF B, CORE A).
