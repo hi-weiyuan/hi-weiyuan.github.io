@@ -58,7 +58,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
 <!--
-1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System. ADMA 2024.
+1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System. ADMA 2024. (CCF C)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF A, CORE A)-->
 
 1. Lijian Chen, **Wei Yuan***, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826). TOIS 2024 (CCF A, CORE A). *Contributing equally with the first author.
