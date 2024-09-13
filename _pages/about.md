@@ -17,6 +17,7 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 
 # News
 <!--
+(13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
 (04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024.
 (15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
 (16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).-->
