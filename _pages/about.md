@@ -16,11 +16,10 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
-<!--
 (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
-(04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024.
+<!--(04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024.-->
 (15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
-(16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).-->
+(16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).
 * (06/06/2024) We have released a survey for poisoning attacks and defenses in recommendations: [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://arxiv.org/abs/2406.01022).
 * (22/05/2024) One co-authored paper titled "Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion" has been accepted by the journal ACM Transactions on Information Systems (TOIS) 2024 (CCF A, CORE A).
 * (11/03/2024) I have been invited to serve as PC for the top conference CIKM 2024 (CCF B, CORE A).
@@ -48,7 +47,7 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering, Decentralized Learning.
 
 # Academic Services
-* PC member: CIKM 2023/2024, The Web Conference (WWW) 2024, KDD 2024.
+* PC member: CIKM 2023/2024, The Web Conference (WWW) 2024/2025, KDD 2024, ADC2024.
 * Journal reviewer: TKDE, TOIS, TKDD, Neural Networks, Science China Information Science, etc.
 
 # Publications
@@ -60,8 +59,8 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 ### Published-->
 <!--
 1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System. ADMA 2024. (CCF C)
-1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF A, CORE A)-->
-
+-->
+1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF A, CORE A)
 1. Lijian Chen, **Wei Yuan***, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826). TOIS 2024 (CCF A, CORE A). *Contributing equally with the first author.
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968). ICDE 2024 (CCF A, CORE A*)
 1. Liang Qu, **Wei Yuan**, Ruiqi Zheng, Lizhen Cui, Yuhui Shi, Hongzhi Yin: [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/abs/2401.17630). WWW 2024 (CCF A, CORE A*).
