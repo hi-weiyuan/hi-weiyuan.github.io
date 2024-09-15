@@ -16,6 +16,7 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # News
+<!--* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).-->
 * (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
 * (04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024 (CCF C).
 * (15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
