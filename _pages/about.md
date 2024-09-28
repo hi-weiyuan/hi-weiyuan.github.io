@@ -59,7 +59,7 @@ Natural Language Generation, Recommender System, Knowledge Graph, AI for Softwar
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
 1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System. ADMA 2024. (CCF C)
-1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF A, CORE A)
+1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF B, CORE A)
 1. Lijian Chen, **Wei Yuan***, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826). TOIS 2024 (CCF A, CORE A). *Contributing equally with the first author.
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968). ICDE 2024 (CCF A, CORE A*)
 1. Liang Qu, **Wei Yuan**, Ruiqi Zheng, Lizhen Cui, Yuhui Shi, Hongzhi Yin: [Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation](https://arxiv.org/abs/2401.17630). WWW 2024 (CCF A, CORE A*).
