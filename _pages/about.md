@@ -15,6 +15,9 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
+# Research Interests
+Recommender System, Urban Computing, Federated/Decentralized Learning and Edge Intelligence, Information Security, Natural Language Generation. 
+
 # News
 <!--* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).-->
 * (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
@@ -44,8 +47,6 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 </details> -->
 
 
-# Research Interests
-Natural Language Generation, Recommender System, Knowledge Graph, AI for Software Engineering, Decentralized Learning.
 
 # Academic Services
 * PC member: CIKM 2023/2024, The Web Conference (WWW) 2024/2025, KDD 2024, ADC 2024.
