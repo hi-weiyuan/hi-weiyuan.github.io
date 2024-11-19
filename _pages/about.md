@@ -16,7 +16,11 @@ I am a final-year PhD student at the School of Electrical Engineering and Comput
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
 
 # Research Interests
-Recommender System, Urban Computing, Federated/Decentralized Learning and Edge Intelligence, Information Security, Natural Language Generation. 
+* Recommender System
+* Urban Computing
+* Federated/Decentralized Learning and Edge Intelligence,
+* Information Security
+* Natural Language Generation. 
 
 # News
 <!--* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).-->
