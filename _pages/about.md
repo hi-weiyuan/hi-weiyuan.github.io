@@ -10,7 +10,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 <!--Outside of research, I like powerlifting and swimming. -->
 
 
-# Education and Research Experience
+# Education Experience
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
@@ -22,8 +22,8 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 * Security
 * Natural Language Generation. 
 
-# News
-<!--* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).-->
+<!--# News
+* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).
 * (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
 * (04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024 (CCF C).
 * (15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
@@ -34,7 +34,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 * (11/02/2024) One co-authored paper titled "Hide Your Model: A Parameter Transmission-free Federated Recommender System" has been accepted by the top conference ICDE 2024 (CCF A, CORE A*).
 * (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
 * (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
-* (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).
+* (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).-->
 
 <!--<details>  <summary>Before 2024</summary>
   * (29/11/2023) Our paper "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" was accepted by The 40th IEEE International Conference on Data Engineering (ICDE) 2024 (CCF A, CORE A*).
@@ -53,8 +53,8 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 
 
 # Academic Services
-* PC member: CIKM 2023/2024, The Web Conference (WWW) 2024/2025, KDD 2024, ADC 2024.
-* Journal reviewer: TKDE, TOIS, TKDD, Neural Networks, Science China Information Science, etc.
+* PC member: CIKM 2023/2024/2025, The Web Conference (WWW) 2024/2025, KDD 2024/2025, IEEE BigData 2025, ADC 2024.
+* Journal reviewer: TKDE, TOIS, TSC, TKDD, TNNLS, KAIS, Neural Networks, Science China Information Science, KBS, etc.
 
 # Publications
 
@@ -84,7 +84,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 
 # Teaching Assistantship
-1. Social Media Analytics, The University of Queensland
+1. Social Media Analytics 2022/2025, The University of Queensland
 1. Comprehensive Practice and Application of Data Science, Nanjing University
 1. Fundamentals of Computer Systems, Nanjing University
 1. Big Data Analysis, Nanjing University
