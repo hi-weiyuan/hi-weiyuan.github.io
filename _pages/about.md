@@ -63,7 +63,13 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
-1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System. ADMA 2024. (CCF C)
+<!-- 
+1. Enyue Yang, Yudi Xiong, **Wei Yuan**, Weike Pan, Qiang Yang, Zhong Ming: A Survey on Cross-User Federated Recommendation. SCIS 2025. (CCF A)
+1. **Wei Yuan**, Chaoqun Yang, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen, Hongzhi Yin: FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Service. TOIS 2025. (CCF A, CORE A)
+1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: PTF-FedSeqRec: A Parameter Transmission-Free Federated Sequential Recommender System. TOIS 2025. (CCF A, CORE A)
+1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin: Robust Federated Contrastive Recommender System against Model Poisoning Attack. SCIS 2025. (CCF A)
+-->
+1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: [PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System](https://link.springer.com/chapter/10.1007/978-981-96-0850-8_5). ADMA 2024. (CCF C)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Watermarking Recommender Systems](https://arxiv.org/abs/2407.21034v2). CIKM 2024 (CCF B, CORE A)
 1. Lijian Chen, **Wei Yuan***, Tong Chen, Quoc Viet Hung Nguyen, Lizhen Cui, Hongzhi Yin: [Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion](https://arxiv.org/abs/2312.15826). TOIS 2024 (CCF A, CORE A). *Contributing equally with the first author.
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [Hide Your Model: A Parameter Transmission-free Federated Recommender System](https://arxiv.org/abs/2311.14968). ICDE 2024 (CCF A, CORE A*)
