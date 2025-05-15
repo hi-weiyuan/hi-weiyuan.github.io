@@ -24,6 +24,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 
 # News
 * One paper has been accepted by KDD2025, congrats to Sixiao!
+
 <!--# News
 * (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).
 * (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
