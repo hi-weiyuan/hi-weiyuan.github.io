@@ -23,6 +23,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 * Natural Language Generation. 
 
 # News
+* (24/05/2025) One paper has been accepted by TOIS2025, congrats to Jason!
 * (15/05/2025) One paper has been accepted by KDD2025, congrats to Sixiao!
 
 <!--# News
@@ -66,6 +67,7 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
+1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: Lightweight Embeddings with Graph Rewiring for Collaborative Filtering. TOIS 2025. (CCF A, CORE A)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Data Watermarking for Sequential Recommender Systems](https://arxiv.org/abs/2411.12989). KDD 2025. (CCF A, CORE A*)
 1. Enyue Yang, Yudi Xiong, **Wei Yuan**, Weike Pan, Qiang Yang, Zhong Ming: [A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7). SCIS 2025. (CCF A)
 1. **Wei Yuan**, Chaoqun Yang, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen, Hongzhi Yin: [FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Service](https://arxiv.org/abs/2410.04927). TOIS 2025. (CCF A, CORE A)
