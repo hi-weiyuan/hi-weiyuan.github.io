@@ -57,19 +57,19 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 
 
 # Academic Services
-* PC member: CIKM 2023/2024/2025, The Web Conference (WWW) 2024/2025, KDD 2024/2025, IEEE BigData 2025, ADC 2024.
+* PC member: The Web Conference (WWW) 2024/2025, KDD 2024/2025, WSDM 2026, CIKM 2023/2024/2025, IEEE BigData 2025, ADC 2024.
 * Journal reviewer: TKDE, TOIS, TSC, TKDD, TNNLS, KAIS, Neural Networks, Science China Information Science, KBS, etc.
 
 # Publications
 
 <!--### arXiv Preprints
-1. Hongzhi Yin, Liang Qu, Tong Chen, **Wei Yuan**, Ruiqi Zheng, Jing Long, Xin Xia, Yuhui Shi, Chengqi Zhang: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
 1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: Lightweight Embeddings with Graph Rewiring for Collaborative Filtering. TOIS 2025. (CCF A, CORE A)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Data Watermarking for Sequential Recommender Systems](https://arxiv.org/abs/2411.12989). KDD 2025. (CCF A, CORE A*)
 1. Enyue Yang, Yudi Xiong, **Wei Yuan**, Weike Pan, Qiang Yang, Zhong Ming: [A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7). SCIS 2025. (CCF A)
+1. Hongzhi Yin, Liang Qu, Tong Chen, **Wei Yuan**, Ruiqi Zheng, Jing Long, Xin Xia, Yushui Shi, Chengqi Zhang. [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).  Data Science and Engineering 2025. (Q1 Journal)
 1. **Wei Yuan**, Chaoqun Yang, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen, Hongzhi Yin: [FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Service](https://arxiv.org/abs/2410.04927). TOIS 2025. (CCF A, CORE A)
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [PTF-FedSeqRec: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/abs/2406.05387). TOIS 2025. (CCF A, CORE A)
 1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: [PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System](https://link.springer.com/chapter/10.1007/978-981-96-0850-8_5). ADMA 2024. (CCF C)
