@@ -25,7 +25,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 # Research Interests
 * Recommender System
 * Federated/Decentralized Learning and Edge Intelligence
-* Security
+* AI Security
 * Urban Computing
 * Natural Language Generation
 
