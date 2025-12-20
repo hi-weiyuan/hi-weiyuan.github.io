@@ -24,10 +24,10 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 
 # Research Interests
 * Recommender System
-* Federated/Decentralized Learning and Edge Intelligence,
+* Federated/Decentralized Learning and Edge Intelligence
 * Security
 * Urban Computing
-* Natural Language Generation. 
+* Natural Language Generation
 
 # News
 * (11/11/2025) We released one survey regarding [recommender system reasoning with LLMs](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176287939.92578520).
