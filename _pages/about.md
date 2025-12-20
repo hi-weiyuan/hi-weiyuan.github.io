@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning, Urban Computing, and AI Security. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
+
+:mega::mega::mega: I am currently on the academic job market, seeking **faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA)**.
+If you are aware of any openings for which I may be a good fit, I would greatly appreciate your reaching out at w.yuan@uq.edu.au. Thank you. :pray: :mega::mega::mega:
+
 <!--Outside of research, I like powerlifting and swimming. -->
 
-
+# Working Experience
+* PostDoc, Data Science, University of Queensland, Australia, 2025.04 ~ present.
 # Education Experience
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
@@ -17,12 +22,13 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 
 # Research Interests
 * Recommender System
-* Urban Computing
 * Federated/Decentralized Learning and Edge Intelligence,
 * Security
+* Urban Computing
 * Natural Language Generation. 
 
 # News
+* (11/11/2025) We released one survey regarding [recommender system reasoning with LLMs](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176287939.92578520).
 * (24/05/2025) One paper has been accepted by TOIS2025, congrats to Jason!
 * (15/05/2025) One paper has been accepted by KDD2025, congrats to Sixiao!
 
@@ -66,10 +72,14 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
-1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: Lightweight Embeddings with Graph Rewiring for Collaborative Filtering. TOIS 2025. (CCF A, CORE A)
+1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
+1. Shangfei Zheng, Xiaotong Nie, **Wei Yuan**, Liang Qu, Xiangjie Kong, Yuchao Zhang, Jian Hou: [Context-aware Adaptive Reinforcement Learning for Multi-hop Knowledge Graph Reasoning in Few-shot Scenarios](https://www.sciencedirect.com/science/article/pii/S0950705125018374).  KBS 2025, (JCR Q1)
+1. Wei Jiang, Tong Chen, **Wei Yuan**, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin: [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124). ICDM 2025 (CCF B).
+1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999). TOIS 2025. (CCF A, CORE A)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Data Watermarking for Sequential Recommender Systems](https://arxiv.org/abs/2411.12989). KDD 2025. (CCF A, CORE A*)
 1. Enyue Yang, Yudi Xiong, **Wei Yuan**, Weike Pan, Qiang Yang, Zhong Ming: [A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7). SCIS 2025. (CCF A)
 1. Hongzhi Yin, Liang Qu, Tong Chen, **Wei Yuan**, Ruiqi Zheng, Jing Long, Xin Xia, Yushui Shi, Chengqi Zhang. [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).  Data Science and Engineering 2025. (Q1 Journal)
+1. **Wei Yuan**, Guanhua Ye, Xiangyu Zhao, Quoc Viet Hung Nguyen, Bin Cui, Tieke He, Hongzhi Yin: [Tackling Data Heterogeneity in Federated Time Series Forecasting](https://arxiv.org/abs/2411.15716). SCIS 2025. (CCF A)
 1. **Wei Yuan**, Chaoqun Yang, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen, Hongzhi Yin: [FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Service](https://arxiv.org/abs/2410.04927). TOIS 2025. (CCF A, CORE A)
 1. **Wei Yuan**, Chaoqun Yang, Liang Qu, Quoc Viet Hung Nguyen, Jianxin Li, Hongzhi Yin: [PTF-FedSeqRec: A Parameter Transmission-Free Federated Sequential Recommender System](https://arxiv.org/abs/2406.05387). TOIS 2025. (CCF A, CORE A)
 1. Chaoqun Yang, **Wei Yuan**, Liang Qu, Thanh Tam Nguyen: [PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System](https://link.springer.com/chapter/10.1007/978-981-96-0850-8_5). ADMA 2024. (CCF C)
