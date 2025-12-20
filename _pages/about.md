@@ -9,12 +9,13 @@ redirect_from:
 I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning, Urban Computing, and AI Security. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
 
 📣📣📣 I am currently on the academic job market, seeking **faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA)**.
-If you are aware of any openings for which I may be a good fit, I would greatly appreciate your reaching out at w.yuan@uq.edu.au. Thank you. 🙏 📣📣📣
+If you are aware of any openings for which I may be a good fit, I would greatly appreciate your reaching out at w.yuan[AT]uq.edu.au. Thank you. 🙏 📣📣📣
 
 <!--Outside of research, I like powerlifting and swimming. -->
 
 # Working Experience
 * PostDoc, Data Science, University of Queensland, Australia, 2025.04 ~ present.
+
 # Education Experience
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
