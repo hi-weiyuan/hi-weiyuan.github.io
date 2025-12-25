@@ -133,5 +133,5 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. From 2019: The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
 1. From 2025: Shariputra, form does not differ from emptiness; emptiness does not differ from form. Form itself is emptiness; emptiness itself is form. Feeling, perception, mental formations, and consciousness are also like this. (Heart Sutra)  
-舍利子，色不异空，空不异色，色即是空，空即是色.受想行识，亦复如是。《般若波罗蜜多心经》
+舍利子，色不异空，空不异色，色即是空，空即是色。受想行识，亦复如是。《般若波罗蜜多心经》
 
