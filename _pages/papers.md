@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-# Publications
+### [Google Scholar](https://scholar.google.com/citations?user=p5__ZlYAAAAJ)
 
 <!--### arXiv Preprints
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
