@@ -4,7 +4,8 @@ title: "Publications"
 permalink: /papers/
 author_profile: true
 ---
-<font size=1>[Google Scholar](https://scholar.google.com/citations?user=p5__ZlYAAAAJ)</font>
+### [Google Scholar](https://scholar.google.com/citations?user=p5__ZlYAAAAJ)
+<font color=red>* means corresponding author</font>
 <!--### arXiv Preprints
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
