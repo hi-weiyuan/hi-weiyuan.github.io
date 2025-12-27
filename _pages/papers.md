@@ -11,7 +11,7 @@ author_profile: true
 ### Published-->
 1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
 1. Shangfei Zheng, Xiaotong Nie, **Wei Yuan**, Liang Qu, Xiangjie Kong, Yuchao Zhang, Jian Hou: [Context-aware Adaptive Reinforcement Learning for Multi-hop Knowledge Graph Reasoning in Few-shot Scenarios](https://www.sciencedirect.com/science/article/pii/S0950705125018374).  KBS 2025, (JCR Q1)
-1. Wei Jiang, Tong Chen, **Wei Yuan**, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin: [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124). ICDM 2025 (CCF B).
+1. Wei Jiang, Tong Chen, **Wei Yuan**, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin: [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124). ICDM 2025 (CCF B, CORE A*).
 1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999). TOIS 2025. (CCF A, CORE A)
 1. Sixiao Zhang, Cheng Long, **Wei Yuan**, Hongxu Chen, Hongzhi Yin: [Data Watermarking for Sequential Recommender Systems](https://arxiv.org/abs/2411.12989). KDD 2025. (CCF A, CORE A*)
 1. Enyue Yang, Yudi Xiong, **Wei Yuan**, Weike Pan, Qiang Yang, Zhong Ming: [A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7). SCIS 2025. (CCF A)
