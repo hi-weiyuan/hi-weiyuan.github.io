@@ -69,13 +69,13 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * PC member: SIGIR 2025/2026, The Web Conference (WWW) 2024/2025/2026, KDD 2024/2025, WSDM 2026, CIKM 2023/2024/2025, IEEE BigData 2025, ADC 2024.
 * Journal reviewer: TKDE, TOIS, TSC, TKDD, TNNLS, KAIS, Neural Networks, Science China Information Science, KBS, etc.
 
-# Publications
+<!--# Publications-->
 
 <!--### arXiv Preprints
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
-1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
+<!--1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
 1. Shangfei Zheng, Xiaotong Nie, **Wei Yuan**, Liang Qu, Xiangjie Kong, Yuchao Zhang, Jian Hou: [Context-aware Adaptive Reinforcement Learning for Multi-hop Knowledge Graph Reasoning in Few-shot Scenarios](https://www.sciencedirect.com/science/article/pii/S0950705125018374).  KBS 2025, (JCR Q1)
 1. Wei Jiang, Tong Chen, **Wei Yuan**, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin: [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124). ICDM 2025 (CCF B).
 1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999). TOIS 2025. (CCF A, CORE A)
@@ -105,6 +105,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. Yifei Yang, **Wei Yuan**, Yansong Li, Desheng Wang, Jia Liu, Tieke He: An Empirical Study of Law Articles Prediction on Transportation Legal Cases. DSA 2020.
 1. **Wei Yuan**, Peng Wang, Mengyao Yuan, Yue Guo, Tieke He: N2One: Identifying Coreference Object Among User Generated Content with Siamese Network. WISA 2020.
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
+-->
 
 # Teaching Assistantship
 1. Social Media Analytics 2022/2025, The University of Queensland
