@@ -128,11 +128,12 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
-1. Ranked Top-1 (with both preliminary and final scores) in the national postgraduate entrance exam of the Software Engineering of Nanjing University, 2019
+1. Ranked Top-1 (with both preliminary and final scores) in the national post-graduate entrance examination, Software Institute at Nanjing University, 2019
 
 # Favorite Quotes
+1. From 2025: Form does not differ from emptiness; emptiness does not differ from form. Form itself is emptiness; emptiness itself is form. Feeling, perception, mental formations, and consciousness are also like this. (Heart Sutra)  
+色不异空，空不异色，色即是空，空即是色。受想行识，亦复如是。《般若波罗蜜多心经》
 1. From 2019: The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
-1. From 2025: Shariputra, form does not differ from emptiness; emptiness does not differ from form. Form itself is emptiness; emptiness itself is form. Feeling, perception, mental formations, and consciousness are also like this. (Heart Sutra)  
-舍利子，色不异空，空不异色，色即是空，空即是色。受想行识，亦复如是。《般若波罗蜜多心经》
+
 
