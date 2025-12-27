@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: ""
 permalink: /papers/
 author_profile: true
 ---
