@@ -15,10 +15,8 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 
 <!--Outside of research, I like powerlifting and swimming. -->
 
-# Working Experience
+# Working & Education Experience
 * PostDoc, Data Science, University of Queensland, Australia, 2025.04 ~ present.
-
-# Education Experience
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
