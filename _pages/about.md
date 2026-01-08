@@ -116,9 +116,9 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * PyTorch, TensorFlow
 * Neo4j, Mysql, MongoDB
 * Latex, Markdown
-* Linux, Vim, Sublime Text -->
+* Linux, Vim, Sublime Text 
 # Invited Talk
-1. Federated Recommender System with Large Language Model, CCF YOCSEF Jinan, Shandong, 22/03/2025
+1. Federated Recommender System with Large Language Model, CCF YOCSEF Jinan, Shandong, 22/03/2025-->
 
 # Awards & Honor
 <!-- 1. Top 40 in Baidu Scholarship, 2023-->
