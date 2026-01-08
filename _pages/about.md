@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning, Urban Computing, and AI Security. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
+I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning, Urban Computing, AI Security, and using LLMs for the above areas efficiently and securely. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
 
 📣📣📣   
 *I am currently on the academic job market, seeking <font color=red><b>faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA).</b></font>
@@ -61,7 +61,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
   * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 </details> -->
 
-
+# [Publication](https://wyuan.me/papers/)
 
 # Academic Services
 * PC member: SIGIR 2025/2026, The Web Conference (WWW) 2024/2025/2026, KDD 2024/2025, WSDM 2026, CIKM 2023/2024/2025, IEEE BigData 2025, ADC 2024.
@@ -128,10 +128,11 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
 1. Ranked Top-1 (with both preliminary and final scores) in the national post-graduate entrance examination, Software Institute at Nanjing University, 2019
 
+<!--
 # Favorite Quotes
 1. From 2025: Form does not differ from emptiness; emptiness does not differ from form. Form itself is emptiness; emptiness itself is form. Feeling, perception, mental formations, and consciousness are also like this. (Heart Sutra)  
 色不异空，空不异色，色即是空，空即是色。受想行识，亦复如是。《般若波罗蜜多心经》
 1. From 2019: The way of study and inquiry is none other than the search for the lost mind. (Mencius)  
 学问之道无他,求其放心而已矣。《孟子.告子章句上》
-
+-->
 
