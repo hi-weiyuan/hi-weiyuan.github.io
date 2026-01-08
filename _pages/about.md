@@ -28,12 +28,13 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Urban Computing
 * Efficient LLMs
 
+
+
+<!--# News
 # News
 * (11/11/2025) We released one survey regarding [recommender system reasoning with LLMs](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176287939.92578520).
 * (24/05/2025) One paper has been accepted by TOIS2025, congrats to Jason!
 * (15/05/2025) One paper has been accepted by KDD2025, congrats to Sixiao!
-
-<!--# News
 * (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).
 * (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
 * (04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024 (CCF C).
