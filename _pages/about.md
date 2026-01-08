@@ -105,11 +105,12 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. **Wei Yuan**, Peng Wang, Yue Guo, Linyang He, Tieke He: Mining the Software Engineering Forums: What's New and What's Left. WISA 2020.
 -->
 
-# Teaching Assistantship
-1. Social Media Analytics 2022/2025, The University of Queensland
-1. Comprehensive Practice and Application of Data Science, Nanjing University
-1. Fundamentals of Computer Systems, Nanjing University
-1. Big Data Analysis, Nanjing University
+# Teaching Experience
+1. Social Media Analytics 2026, Guest Lecturer, The University of Queensland
+1. Social Media Analytics 2022/2025, TA, The University of Queensland
+1. Comprehensive Practice and Application of Data Science, TA, Nanjing University
+1. Fundamentals of Computer Systems, TA, Nanjing University
+1. Big Data Analysis, TA, Nanjing University
 
 <!--# Skills
 * Python, Shell, C++, Django
