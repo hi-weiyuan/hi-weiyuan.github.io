@@ -62,7 +62,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
   * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
 </details> -->
 
-# [Publication](https://wyuan.me/papers/)
+# [Publication List](https://wyuan.me/papers/)
 
 # Academic Services
 * PC member: SIGIR 2025/2026, The Web Conference (WWW) 2024/2025/2026, KDD 2024/2025, WSDM 2026, CIKM 2023/2024/2025, IEEE BigData 2025, ADC 2024.
