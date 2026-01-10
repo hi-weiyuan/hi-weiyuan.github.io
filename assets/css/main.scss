@@ -39,22 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 固定顶部导航栏 */
-.masthead {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
-  z-index: 1000;
-}
-
-/* 给正文留出导航栏高度，避免被遮住（按需改数值） */
-.initial-content {
-  padding-top: 4.5rem;  /* 你可以改成 60px / 70px 试一下 */
-}
-
-/* 让页面内跳转(#xxx)不被固定导航挡住（可选但很实用） */
-h1, h2, h3, h4, h5, h6 {
-  scroll-margin-top: 5rem;
-}
