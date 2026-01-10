@@ -8,7 +8,7 @@ redirect_from:
 layout: single
 classes: wide
 ---
-I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Recommender Systems, Federated Learning, and AI Security, with a recent strong focus on using LLMs for the above areas efficiently and securely. 
+I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Recommender Systems, Federated Learning, and AI Security, **with a recent strong focus on using LLMs for the above areas efficiently and securely**. 
 
 I completed my Ph.D. at the University of Queensland (with 6 months early graduation) in Mar. 2025 under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
