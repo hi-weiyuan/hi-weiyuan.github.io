@@ -5,8 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-layout: single
-classes: wide
 ---
 I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Recommender Systems, Federated Learning, and AI Security, **with a recent strong focus on using LLMs for the above areas efficiently and securely**. 
 
