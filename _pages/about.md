@@ -8,7 +8,9 @@ redirect_from:
 layout: single
 classes: wide
 ---
-I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Recommender Systems, Federated Learning, and AI Security, with a recent strong focus on using LLMs for the above areas efficiently and securely. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
+I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Recommender Systems, Federated Learning, and AI Security, with a recent strong focus on using LLMs for the above areas efficiently and securely. 
+
+I completed my Ph.D. at the University of Queensland (with 6 months early graduation) in Mar. 2025 under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
 📣📣📣   
 *I am currently on the academic job market, seeking <font color=red><b>faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA).</b></font>
@@ -17,11 +19,12 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 
 <!--Outside of research, I like powerlifting and swimming. -->
 
+<!--
 # Working & Education Experience
 * PostDoc, Data Science, University of Queensland, Australia, 2025.04 ~ present.
 * PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
 * MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
-* BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.
+* BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.-->
 
 # Research Interests
 * Recommender System
