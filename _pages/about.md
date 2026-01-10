@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: single
+classes: wide
 ---
 I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly focuses on Recommender Systems and Decentralized Learning, Urban Computing, AI Security, and using LLMs for the above areas efficiently and securely. <!-- Knowledge Graph, Natural Language Processing, and AI for Software Engineering.  -->Before at UQ, I received my Master's degree from [Nanjing University](https://www.nju.edu.cn) supervised by A/Prof. Tieke He. 
 
