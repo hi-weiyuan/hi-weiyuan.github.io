@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* ClustrMaps 不要悬浮挡住内容 */
+#clustrmaps-widget,
+#clustrmaps {
+  position: static !important;
+  display: block !important;
+  clear: both;
+  margin: 1rem auto 0;
+  z-index: auto !important;
+}
+
+/* 有些版本会插入 iframe/canvas 也一起管住 */
+#clustrmaps-widget iframe,
+#clustrmaps-widget canvas,
+#clustrmaps-widget img {
+  position: static !important;
+  display: block !important;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
