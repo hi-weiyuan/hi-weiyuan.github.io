@@ -131,7 +131,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
 1. Second-class Talent Scholarship, Nanjing University, 2020.11
-1. Ranked Top-1 (with both preliminary and final scores) in the national post-graduate entrance examination, Software Institute at Nanjing University, 2019
+1. Ranked Top-1/1000+ (with both preliminary and final scores) in the national post-graduate entrance examination, Software Institute at Nanjing University, 2019
 
 <!--
 # Favorite Quotes
