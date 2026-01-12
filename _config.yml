@@ -88,8 +88,12 @@ author:
 #   location         : "Location"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "https://scholar.google.com/citations?user=p5__ZlYAAAAJ"
-  # email            : warrenyuan97@gmail.com
+  email            : warrenyuan97@gmail.com
+  linkedin         : "https://www.linkedin.com/in/wei-yuan-2b38951a7/"
+  orcid            : "https://orcid.org/0000-0002-9400-842X"
+  github           : "https://github.com/hi-weiyuan"
+  googlescholar    : "https://scholar.google.com/citations?user=p5__ZlYAAAAJ"
+  
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
