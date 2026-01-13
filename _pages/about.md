@@ -31,6 +31,8 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Urban Computing
 * Efficient LLMs
 
+# News
+* We are organizing the [12th International Workshop on Big Data Management and Service](https://yan20191113.github.io/DASFAA_2026.github.io/) on DASFAA 2026 (CCF-B conference). Submissions are welcome!
 
 
 <!--# News
