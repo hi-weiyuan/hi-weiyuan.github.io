@@ -8,7 +8,7 @@ author_profile: true
 
 ## Non-Human Team Member
 <p align="center">
-  <img src="assets/bubble.jpg" alt="Bubble" width="260">
+  <img src="images/bubble.jpeg" alt="Bubble" width="260">
   <br>
-  <em>Bubble — Lab mascot / Feathered team member 🐦</em>
+  <em>Bubble — She is Third Year "PhD" Caique 🐦</em>
 </p>
