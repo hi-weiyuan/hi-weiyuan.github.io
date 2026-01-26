@@ -32,6 +32,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Efficient LLMs
 
 # News
+* (26/01/2026) One paper has been accepted to ICLR 2026. Congratulations to Xiaobo on this achievement as a master’s student :)
 * (13/01/2026) We are organizing the [12th International Workshop on Big Data Management and Service](https://yan20191113.github.io/DASFAA_2026.github.io/) on DASFAA 2026 (CCF-B conference). Warmly welcome submissions!
 
 
