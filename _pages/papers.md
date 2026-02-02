@@ -12,7 +12,7 @@ author_profile: true
 ### Published-->
 1. Xiaobo Xing, **Wei Yuan\***, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin: [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671). ICLR 2026. (Tsinghua A, CORE A*, *Co-first author)
 1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
-1. Jie Zhong, Tong Chen, **Wei Yuan**, Lizhen Cui, Hongzhi Yin: LogicGate: Adaptive Rule-Based Modeling of Exogenous Effects for Time-Series Forecasting.  DASFAA'26. (CCF B)
+1. Jie Zhong, Tong Chen, **Wei Yuan**, Lizhen Cui, Hongzhi Yin: LogicGate: Adaptive Rule-Based Modeling of Exogenous Effects for Time-Series Forecasting.  DASFAA 2026. (CCF B)
 1. Shangfei Zheng, Xiaotong Nie, **Wei Yuan**, Liang Qu, Xiangjie Kong, Yuchao Zhang, Jian Hou: [Context-aware Adaptive Reinforcement Learning for Multi-hop Knowledge Graph Reasoning in Few-shot Scenarios](https://www.sciencedirect.com/science/article/pii/S0950705125018374).  KBS 2025, (JCR Q1)
 1. Wei Jiang, Tong Chen, **Wei Yuan**, Xiangyu Zhao, Quoc Viet Hung Nguyen, and Hongzhi Yin: [Towards Propagation-aware Representation Learning for Supervised Social Media Graph Analytics](https://arxiv.org/abs/2509.01124). ICDM 2025 (CCF B, CORE A*).
 1. Xurong Liang, Tong Chen, **Wei Yuan**, Hongzhi Yin: [Lightweight Embeddings with Graph Rewiring for Collaborative Filtering](https://arxiv.org/abs/2505.18999). TOIS 2025. (CCF A, CORE A)
