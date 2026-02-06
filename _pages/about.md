@@ -32,6 +32,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Efficient LLMs
 
 # News
+* (06/02/2026) I’m pleased to share that our workshop proposal "LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation" has been accepted at SIGIR 2026 (CCF-A). It is a great honor to serve as a co-chair/organizer alongside Prof. Hongzhi Yin\[UQ\], Mr. Yi Zhang \[AHU\], Dr. Joel Mackenzie \[UQ\], Prof. Quoc Viet Hung Nguyen, Prof. Xin Zhao \[RUC\], Prof. Yong Li \[THU\], and Prof. Lina Yao \[UNSW\]. Our workshop aims to bring together researchers and practitioners to systematize recent advances in LLM-powered user profiling, identify open challenges, and explore how these techniques can be integrated into modern search and recommendation pipelines. The workshop website and submission portal will be announced soon.
 * (26/01/2026) One paper has been accepted to ICLR 2026. Congratulations to Xiaobo on this achievement as a master’s student :)
 * (13/01/2026) We are organizing the [12th International Workshop on Big Data Management and Service](https://yan20191113.github.io/DASFAA_2026.github.io/) on DASFAA 2026 (CCF-B conference). Warmly welcome submissions!
 
