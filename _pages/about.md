@@ -10,10 +10,12 @@ I am a postdoctoral research fellow at the School of Electrical Engineering and 
 
 I completed my Ph.D. at the University of Queensland (with 6 months early graduation) in Mar. 2025 under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
+<!--
 📣📣📣   
 *I am currently on the academic job market, seeking <font color=red><b>faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA).</b></font>
 If you are aware of any openings for which I may be a good fit, I would greatly appreciate your reaching out at **w.yuan[AT]uq.edu.au**. Thank you.* 🙏  
 📣📣📣
+-->
 
 <!--Outside of research, I like powerlifting and swimming. -->
 
