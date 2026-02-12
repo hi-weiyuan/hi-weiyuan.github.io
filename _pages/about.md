@@ -27,6 +27,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.-->
 
 # Research Interests
+* Embodied Intelligence (&lArr; The most recent interests.)
 * Recommender System
 * Federated/Decentralized Learning and Edge Intelligence
 * AI Security
