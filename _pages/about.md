@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Embodied Intelligence, Recommender Systems, Federated Learning, and AI Security, **with a recent strong focus on using LLMs for the above areas efficiently and securely**. 
+I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Embodied Intelligence, Recommender Systems, Federated Learning, and AI Security. 
 
 I completed my Ph.D. at the University of Queensland (with 6 months early graduation) in Mar. 2025 under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
@@ -28,11 +28,9 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 
 # Research Interests
 * Embodied Intelligence (&lArr; The most recent interests.)
-* Recommender System
+* Data Mining (Recommender System, Time Series Forecasting, Tabular Data Analysis)
 * Federated/Decentralized Learning and Edge Intelligence
 * AI Security
-* Urban Computing
-* Efficient LLMs
 
 # News
 * (06/02/2026) I’m pleased to share that our workshop proposal "[LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation](https://sigir-llmup.github.io/SIGIR26-LLMUP/)" has been accepted at SIGIR 2026 (CCF-A). It is a great honor to serve as a co-chair/organizer alongside Prof. Hongzhi Yin\[UQ\], Mr. Yi Zhang \[AHU\], Dr. Joel Mackenzie \[UQ\], Prof. Quoc Viet Hung Nguyen, Prof. Xin Zhao \[RUC\], Prof. Yong Li \[THU\], and Prof. Lina Yao \[UNSW\]. Our workshop aims to bring together researchers and practitioners to systematize recent advances in LLM-powered user profiling, identify open challenges, and explore how these techniques can be integrated into modern search and recommendation pipelines.
