@@ -10,7 +10,7 @@ author_profile: true
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
-1. Xiaobo Xing, **Wei Yuan\***, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin: [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671). ICLR 2026. (Tsinghua A, CORE A*, *Co-first author)
+1. Xiaobo Xing, **Wei Yuan\***, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin: [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671). ICLR 2026. (Tsinghua A, CCF-A, CORE A*, *Co-first author)
 1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (JCR Q1, *Corresponding Author)
 1. Lijian Chen, **Wei Yuan**, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin: [Multi-agents based User Values Mining for Recommendation](https://arxiv.org/abs/2505.00981). DSE 2026 (JCR Q1).
 1. Jie Zhong, Tong Chen, **Wei Yuan**, Lizhen Cui, Hongzhi Yin: LogicGate: Adaptive Rule-Based Modeling of Exogenous Effects for Time-Series Forecasting.  DASFAA 2026. (CCF B)
