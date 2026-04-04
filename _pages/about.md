@@ -33,6 +33,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * AI Security
 
 # News
+* (03/04/2026) We have released the first survey on the [safety of Vision-Language-Action Models from the lifecycle perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1).
 * (06/02/2026) I’m pleased to share that our workshop proposal "[LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation](https://sigir-llmup.github.io/SIGIR26-LLMUP/)" has been accepted at SIGIR 2026 (CCF-A). It is a great honor to serve as a co-chair/organizer alongside Prof. Hongzhi Yin\[UQ\], Mr. Yi Zhang \[AHU\], Dr. Joel Mackenzie \[UQ\], Prof. Quoc Viet Hung Nguyen, Prof. Xin Zhao \[RUC\], Prof. Yong Li \[THU\], and Prof. Lina Yao \[UNSW\]. Our workshop aims to bring together researchers and practitioners to systematize recent advances in LLM-powered user profiling, identify open challenges, and explore how these techniques can be integrated into modern search and recommendation pipelines.
 * (26/01/2026) One paper has been accepted to ICLR 2026. Congratulations to Xiaobo on this achievement as a master’s student :)
 * (13/01/2026) We are organizing the [12th International Workshop on Big Data Management and Service](https://yan20191113.github.io/DASFAA_2026.github.io/) on DASFAA 2026 (CCF-B conference). Warmly welcome submissions!
