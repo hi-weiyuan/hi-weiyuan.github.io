@@ -4,12 +4,17 @@ title: ""
 permalink: /papers/
 author_profile: true
 ---
-### [Google Scholar](https://scholar.google.com/citations?user=p5__ZlYAAAAJ)
+#### [Google Scholar](https://scholar.google.com/citations?user=p5__ZlYAAAAJ)
 <font color=red>* means corresponding author or equal contributions.</font>
 <!--### arXiv Preprints
 1. Shilong Yuan, **Wei Yuan**, Hongzhi Yin, Tieke He: [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514v2).
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
+
+## Survey
+1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026.
+
+## Research Papers
 1. Xiaobo Xing, **Wei Yuan\***, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin: [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671). ICLR 2026. (Tsinghua A, CCF-A, CORE A*, *Co-first author)
 1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (CCF-C, JCR Q1, *Corresponding Author)
 1. Lijian Chen, **Wei Yuan**, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin: [Multi-agents based User Values Mining for Recommendation](https://arxiv.org/abs/2505.00981). DSE 2026 (CCF B, JCR Q1).
