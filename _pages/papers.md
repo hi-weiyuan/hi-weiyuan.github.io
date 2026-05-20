@@ -12,7 +12,7 @@ author_profile: true
 ### Published-->
 
 ## Survey
-1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at https://github.com/hi-weiyuan/Awesome-VLA-Safety.
+1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).
 
 ## Research Papers
 1. Qianru Zhang, Honggang Wen, **Wei Yuan**, Crystal Chen, Menglin Yang, Siu-Ming Yiu, Hongzhi Yin: [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205). TOIS 2026. (CCF-A, CORE A)
