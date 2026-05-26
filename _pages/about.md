@@ -77,7 +77,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Co-Chair/Organizer:
   - LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation
   - 12th International Workshop on Big Data Management and Service on DASFAA2026.
-* PC member: ACL 2026, SIGIR 2025/2026, The Web Conference (WWW) 2024/2025/2026, KDD 2024/2025/2026, WSDM 2026, CIKM 2023/2024/2025, IEEE BigData 2025/2026, ADC 2024.
+* PC member: ACL 2026, SIGIR 2025/2026, The Web Conference (WWW) 2024/2025/2026, KDD 2024/2025/2026, WSDM 2026, ICDM 2026, CIKM 2023/2024/2025/2026, IEEE BigData 2025/2026, ADC 2024.
 * Journal reviewer: TKDE, TOIS, TSC, TKDD, TNNLS, KAIS, Neural Networks, Science China Information Science, KBS, etc.
 
 <!--# Publications-->
