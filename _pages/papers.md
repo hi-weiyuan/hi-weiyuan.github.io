@@ -15,6 +15,7 @@ author_profile: true
 1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).
 
 ## Research Papers
+1. Dezheng Wang, Tong Chen, **Wei Yuan**, Congyan Chen, Shihua Li, Hongzhi Yin: [Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344). TIST 2026. (JCR Q1)
 1. Qianru Zhang, Honggang Wen, **Wei Yuan**, Crystal Chen, Menglin Yang, Siu-Ming Yiu, Hongzhi Yin: [HMamba: Hyperbolic Mamba for Sequential Recommendation](https://arxiv.org/abs/2505.09205). TOIS 2026. (CCF A, CORE A)
 1. Xiaobo Xing, **Wei Yuan\***, Tong Chen, Quoc Viet Hung Nguyen, Xiangliang Zhang, Hongzhi Yin: [TableDART: Dynamic Adaptive Multi-Modal Routing for Table Understanding](https://arxiv.org/abs/2509.14671). ICLR 2026. (Tsinghua A, CCF A, CORE A*, *Co-first author)
 1. Zhaofeng Zhong, **Wei Yuan***, Liang Qu, Tong Chen, Hao Wang, Xiangyu Zhao, Hongzhi Yin: [Towards On-Device Personalization: Cloud-device Collaborative Data Augmentation for Efficient On-device Language Model](https://arxiv.org/abs/2508.21313). TIST 2026. (CCF-C, JCR Q1, *Corresponding Author)
