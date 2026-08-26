@@ -11,8 +11,8 @@ author_profile: true
 1. Xuhui Ren, **Wei Yuan**, Tong Chen, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin: [Joint Semantic and Structural Representation Learning for Enhancing User Preference Modelling](https://arxiv.org/abs/2304.12083).
 ### Published-->
 
-## Survey
-1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).
+<!--## Survey
+1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).-->
 
 ## Research Papers
 1. Zhaofeng Zhong, **Wei Yuan**, Tong Chen, Liang Qu, Xiangyu Zhao, Quoc Viet Hung Nguyen and Hongzhi Yin: [QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging](https://arxiv.org/abs/2601.03506v1). CIKM 2026 (CCF B, CORE A)
