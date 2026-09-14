@@ -15,6 +15,7 @@ author_profile: true
 1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).-->
 
 ## Research Papers
+1. Liang Qu, Jianxin Li, Wei Yuan, Penghui Ruan, Yuhui Shi, Hongzhi Yin: [Proxy Model-Guided Reinforcement Learning for Client Selection in Federated Recommendation](https://arxiv.org/pdf/2508.10401). TKDE 2026 (CCF A, CORE A*)
 1. Zhaofeng Zhong, **Wei Yuan**, Tong Chen, Liang Qu, Xiangyu Zhao, Quoc Viet Hung Nguyen and Hongzhi Yin: [QA-Merging: Query-Adaptive Reasoning via Layer Selective Model Merging](https://arxiv.org/abs/2601.03506v1). CIKM 2026 (CCF B, CORE A)
 1. Sixiao Zhang, Mingrui Liu, **Wei Yuan**, Hongzhi Yin and Cheng Long: [On Mitigating Data Sparsity in Conversational Recommender Systems](https://arxiv.org/abs/2507.00479). CIKM 2026 (CCF B, CORE A)
 1. Dezheng Wang, Tong Chen, **Wei Yuan**, Congyan Chen, Shihua Li, Hongzhi Yin: [Self-Gating Attention for Efficient Time Series Forecasting](https://arxiv.org/abs/2607.02344). TIST 2026. (JCR Q1)
