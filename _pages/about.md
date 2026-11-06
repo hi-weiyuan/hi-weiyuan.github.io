@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my Ph.D. at the University of Queensland under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
+I completed my Ph.D. at the University of Queensland under the supervision of Prof. Hongzhi Yin. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
 
 # Research Interests
