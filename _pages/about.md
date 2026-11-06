@@ -137,6 +137,7 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 
 # Awards & Honor
 <!-- 1. Top 40 in Baidu Scholarship, 2023-->
+1. 2025 Dean's Award for Higher Degree by Research Excellence – Outstanding Research Thesis, The University of Queensland, Australia.
 1. SIGIR Student Travel Grant, 2023
 1. UQ-CSC Full Ph.D. Scholarship (2022.01 - 2025.12)
 1. School Outstanding Student, Nanjing University, 2020.12
