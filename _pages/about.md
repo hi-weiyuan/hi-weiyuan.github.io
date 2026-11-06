@@ -6,25 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--I am a postdoctoral research fellow at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), working with [Prof. Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home). My research mainly includes Embodied Intelligence, Recommender Systems, Federated Learning, and AI Security. -->
 
-I completed my Ph.D. at the University of Queensland (with 6 months early graduation) in Mar. 2025 under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
+I completed my Ph.D. at the University of Queensland under the supervision of Prof. Hongzhi Yin and Dr. Miao Xu. Before coming to UQ, I received my Master's degree from Nanjing University under the supervision of A/Prof. Tieke He.
 
-<!--
-📣📣📣   
-*I am currently on the academic job market, seeking <font color=red><b>faculty (anywhere on the earth) or postdoctoral positions (USA, EU, Singapore), as well as Research Assistant Professor (RAP) opportunities (Hong Kong, USA).</b></font>
-If you are aware of any openings for which I may be a good fit, I would greatly appreciate your reaching out at **w.yuan[AT]uq.edu.au**. Thank you.* 🙏  
-📣📣📣
--->
-
-<!--Outside of research, I like powerlifting and swimming. -->
-
-<!--
-# Working & Education Experience
-* PostDoc, Data Science, University of Queensland, Australia, 2025.04 ~ present.
-* PhD, Data Science, University of Queensland, Australia, 2022.01 ~ 2025.03.
-* MS, Software Engineering, Nanjing University, China, 2019.09 ~ 2021.06.
-* BS, Software Engineering, Southwest Jiaotong University, China, 2015.09 ~ 2019.06.-->
 
 # Research Interests
 * Embodied Intelligence (&lArr; The most recent interests.)
@@ -32,44 +16,6 @@ If you are aware of any openings for which I may be a good fit, I would greatly 
 * Federated/Decentralized Learning and Edge Intelligence
 * AI Security
 
-<!--# News
-* 🔥 (03/04/2026) We have released the first survey on the [safety of Vision-Language-Action Models from the lifecycle perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1).
-* (06/02/2026) I’m pleased to share that our workshop proposal "[LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation](https://sigir-llmup.github.io/SIGIR26-LLMUP/)" has been accepted at SIGIR 2026 (CCF-A). It is a great honor to serve as a co-chair/organizer alongside Prof. Hongzhi Yin\[UQ\], Mr. Yi Zhang \[AHU\], Dr. Joel Mackenzie \[UQ\], Prof. Quoc Viet Hung Nguyen, Prof. Xin Zhao \[RUC\], Prof. Yong Li \[THU\], and Prof. Lina Yao \[UNSW\]. Our workshop aims to bring together researchers and practitioners to systematize recent advances in LLM-powered user profiling, identify open challenges, and explore how these techniques can be integrated into modern search and recommendation pipelines.
-* (26/01/2026) One paper has been accepted to ICLR 2026. Congratulations to Xiaobo on this achievement as a master’s student :)
-* (13/01/2026) We are organizing the [12th International Workshop on Big Data Management and Service](https://yan20191113.github.io/DASFAA_2026.github.io/) on DASFAA 2026 (CCF-B conference). Warmly welcome submissions!-->
-
-
-<!--# News
-# News
-* (11/11/2025) We released one survey regarding [recommender system reasoning with LLMs](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176287939.92578520).
-* (24/05/2025) One paper has been accepted by TOIS2025, congrats to Jason!
-* (15/05/2025) One paper has been accepted by KDD2025, congrats to Sixiao!
-* (14/09/2024) One co-authored paper titled "Robust Federated Contrastive Recommender System against Targeted Model Poisoning Attack" has been accepted by the top journal Science China Information Science (SCIS) 2024 (CCF A).
-* (13/09/2024) I have been invited to serve as PC for the Australasian Database Conference (ADC) 2024.
-* (04/09/2024) One co-authored paper titled "PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System" has been accepted by ADMA 2024 (CCF C).
-* (15/08/2024) I have been invited to serve as PC for the top conference WWW 2025 (CCF A, CORE A*).
-* (16/07/2024) One co-authored paper titled "Watermarking Recommender Systems" has been accepted by CIKM 2024 (CCF B, CORE A).
-* (06/06/2024) We have released a survey for poisoning attacks and defenses in recommendations: [Poisoning Attacks and Defenses in Recommender Systems: A Survey](https://arxiv.org/abs/2406.01022).
-* (22/05/2024) One co-authored paper titled "Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion" has been accepted by the journal ACM Transactions on Information Systems (TOIS) 2024 (CCF A, CORE A).
-* (11/03/2024) I have been invited to serve as PC for the top conference CIKM 2024 (CCF B, CORE A).
-* (11/02/2024) One co-authored paper titled "Hide Your Model: A Parameter Transmission-free Federated Recommender System" has been accepted by the top conference ICDE 2024 (CCF A, CORE A*).
-* (23/01/2024) One co-authored paper titled "Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation" has been accepted by the top conference WWW 2024 (CCF A, CORE A*).
-* (22/01/2024) We have released a survey for on-device recommender systems: [On-Device Recommender Systems: A Comprehensive Survey](https://arxiv.org/abs/2401.11441).
-* (21/01/2024) I have been invited to serve as PC for the top conference KDD 2024 (CCF A, CORE A*).-->
-
-<!--<details>  <summary>Before 2024</summary>
-  * (29/11/2023) Our paper "HeteFedRec: Federated Recommender Systems with Model Heterogeneity" was accepted by The 40th IEEE International Conference on Data Engineering (ICDE) 2024 (CCF A, CORE A*).
-  * (16/10/2023) Our paper "Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures" was accepted by the top journal ACM Transactions on Information Systems (TOIS) 2023 (CCF A, CORE A).
-  * (06/04/2023) Our paper "Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures" was accepted by The International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023 (CCF A, CORE A*).
-  * (14/03/2023) I passed the first progress (PhD Confirmation) review.
-  * (26/01/2023) Our paper "Interaction-level Membership Inference Attack Against Federated Recommender Systems" was accepted by The Web Conference (WWW) 2023 (CCF A, CORE A*).
-  * (19/10/2022) Our paper "Federated Unlearning for On-Device Recommendation" was accepted by Web Search and Data Mining (WSDM) 2023 (CCF B, CORE A*).
-  * (30/04/2022) Our paper "CIRCLE: Continual Repair across Programming Languages" was accepted by the International Symposium on Software Testing and Analysis (ISSTA) 2022 (CCF A, CORE A).
-  * (25/01/2022) Our paper "Unified Question Generation with Continual Lifelong Learning" was accepted by The Web Conference (WWW) 2022 (CCF A, CORE A*).
-  * (20/10/2021) I got a research assistant position at Nanjing University for one year.
-  * (24/02/2021) I got a PhD Program offer from The University of Queensland (UQ).
-  * (16/01/2021) Our paper "Improving Neural Question Generation using Deep Linguistic Representation" was accepted by WWW 2021 (CCF A, CORE A*).
-</details> -->
 
 # [Publication List](https://wyuan.me/papers/)
 
