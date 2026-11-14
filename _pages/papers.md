@@ -15,6 +15,7 @@ author_profile: true
 1. **Wei Yuan**, Fengwen Liu, Ruize Wei, Zongwei Wang, Yuan Gao, Hu Huang, Binxing Fang, Qing Liao: [Safety of Vision-Language-Action Models: A Survey from Lifecycle Perspectives](https://www.authorea.com/doi/full/10.22541/au.177524426.60806944/v1). Preprint. Released on 03/04/2026. Continuously Updated Paper List at [https://github.com/hi-weiyuan/Awesome-VLA-Safety](https://github.com/hi-weiyuan/Awesome-VLA-Safety).-->
 
 ## Research Papers
+1. Shutong Qiao, **Wei Yuan**, Tong Chen, Hao Wang, Quoc Viet Hung Nguyen, Hongzhi Yin: [VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2607.25209). KDD 2027 (CCF A, CORE A*)
 1. **Wei Yuan**, Shutong Qiao, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang, Hongzhi Yin: [Integrating Vision-Centric Text Understanding for Conversational Recommender Systems](https://arxiv.org/abs/2601.13505). WSDM 2027 (CCF B, CORE A)
 1. Shutong Qiao, **Wei Yuan**, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin: [Dispersive Latent Diffusion for Stealthy Shilling Attacks](https://arxiv.org/abs/2508.01987). WSDM 2027 (CCF B, CORE A)
 1. Liang Qu, Jianxin Li, **Wei Yuan**, Penghui Ruan, Yuhui Shi, Hongzhi Yin: [Proxy Model-Guided Reinforcement Learning for Client Selection in Federated Recommendation](https://arxiv.org/pdf/2508.10401). TKDE 2026 (CCF A, CORE A*)
