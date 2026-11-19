@@ -16,10 +16,15 @@ I completed my Ph.D. at the University of Queensland under the supervision of Pr
 * Federated/Decentralized Learning and Edge Intelligence
 * AI Security
 
+# News 
+* (2026/11/19) I am delighted to share that I have been invited to serve as a Young Associate Editor for Big Data Mining and Analytics (BDMA, JCR Q1, Impact Factor: 6.1, CiteScore: 12.5).
+* (2026/11/14) Three papers have been accepted by KDD (x1, 17.8%) and WSDM (x2, 15.8%).
+
 
 # [Publication List](https://wyuan.me/papers/)
 
 # Academic Services
+* Young Associate Editor:  Big Data Mining and Analytics (BDMA, JCR Q1, IF 6.1) 
 * Co-Chair/Organizer:
   - LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation
   - 12th International Workshop on Big Data Management and Service on DASFAA2026.
